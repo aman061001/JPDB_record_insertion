@@ -10,7 +10,7 @@ One can find about other JPDB methods via this
   http://login2explore.com/jpdb/resources/js/0.0.4/jpdb-commons.js
 
 Table of contents:
-  It includes 3 fields that are the record content which we are suppose to inssert in the database.
+  It includes 3 fields that are the record content which we are suppose to insert in the database.
   
 Illustrations:
   When we run it on any server it ask you to enter the Student id/USN, Student Name, Student mail id an then there is a button which on click saves our data with some 
