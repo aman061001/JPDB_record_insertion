@@ -6,7 +6,7 @@ Description:
 Benefits of using JsonPowerDB:
   We dont have to make a Schema initially for storing the records inspite with the help of jpdb querry the schema got created and the records are inserted accordingly.
 
-One can findd about other JPDB methods via this
+One can find about other JPDB methods via this
   http://login2explore.com/jpdb/resources/js/0.0.4/jpdb-commons.js
 
 Table of contents:
